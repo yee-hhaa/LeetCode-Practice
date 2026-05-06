@@ -15,7 +15,7 @@
 - [ ] 0011. Container With Most Water (Medium)
 - [ ] 0012. Integer to Roman (Medium)
 - [x] 0013. Roman to Integer (Easy)-使用 Dictionary 優化查表與單次遍歷 O(n)
-- [ ] 0014. Longest Common Prefix (Easy)
+- [x] 0014. Longest Common Prefix (Easy)-垂直掃描演算法O(s)
 - [ ] 0015. 3Sum (Medium)
 - [ ] 0016. 3Sum Closest (Medium)
 - [ ] 0017. Letter Combinations of a Phone Number (Medium)
