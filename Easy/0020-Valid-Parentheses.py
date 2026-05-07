@@ -1,5 +1,10 @@
 class Solution(object):
     def isValid(self, s):
+        """
+        思路:運用堆疊
+        :type s: str
+        :rtype: bool
+        """
         stack = []
         for char in s:
             if char in "([{":
@@ -16,7 +21,4 @@ class Solution(object):
                     return False
         return not stack
 
-        """
-        :type s: str
-        :rtype: bool
-        """
+
