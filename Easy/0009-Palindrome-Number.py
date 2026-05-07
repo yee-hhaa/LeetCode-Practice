@@ -1,5 +1,10 @@
 class Solution(object):
     def isPalindrome(self, x):
+        """
+        思路:用純數字解
+        :type x: int
+        :rtype: bool
+        """
         if x<0:
             return False
         else:
@@ -14,8 +19,5 @@ class Solution(object):
                 return True
             else:
                 return False
-        """
-        :type x: int
-        :rtype: bool
-        """
+
         
