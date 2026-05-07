@@ -21,7 +21,7 @@
 - [ ] 0017. Letter Combinations of a Phone Number (Medium)
 - [ ] 0018. 4Sum (Medium)
 - [ ] 0019. Remove Nth Node From End of List (Medium)
-- [ ] 0020. Valid Parentheses (Easy)
+- [x] 0020. Valid Parentheses (Easy)-學會堆疊應用O(n)
 - [ ] 0021. Merge Two Sorted Lists (Easy)
 - [ ] 0022. Generate Parentheses (Medium)
 - [ ] 0023. Merge k Sorted Lists (Hard)
