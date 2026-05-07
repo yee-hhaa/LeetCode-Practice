@@ -27,7 +27,7 @@
 - [ ] 0023. Merge k Sorted Lists (Hard)
 - [ ] 0024. Swap Nodes in Pairs (Medium)
 - [ ] 0025. Reverse Nodes in k-Group (Hard)
-- [ ] 0026. Remove Duplicates from Sorted Array (Easy)
+- [x] 0026. Remove Duplicates from Sorted Array (Easy)-思路：Two Pointer，i 追蹤不重複區域的末端，j 往前掃描，遇到新數字就放到 i+1 的位置
 - [ ] 0027. Remove Element (Easy)
 - [ ] 0028. Find the Index of the First Occurrence in a String (Easy)
 - [ ] 0029. Divide Two Integers (Medium)
