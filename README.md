@@ -52,3 +52,4 @@
 - [ ] 0048. Rotate Image (Medium)
 - [ ] 0049. Group Anagrams (Medium)
 - [ ] 0050. Pow(x, n) (Medium)
+- [X] 0121. Best Time to Buy and Sell Stock (easy)-原本用雙迴圈改成單迴圈
